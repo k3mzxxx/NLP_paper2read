@@ -46,7 +46,7 @@
 - 【2017 NIPS】transformer：预训练的基石之作，必读  
   [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-- 【2017 1CLR】transformer-xl
+- 【2017 1CLR】transformer-xl  
   [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 
 - 【2018 NAACL】elmo：动态词向量  
