@@ -43,27 +43,27 @@
 
 ## Pre-train models
 
-- 【2017 NIPS】transformer：预训练的基石之作，必读  
+- 【2017 NIPS】Transformer：预训练的基石之作，必读  
   [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-- 【2017 1CLR】transformer-xl  
+- 【2017 1CLR】Transformer-xl  
   [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 
-- 【2018 NAACL】elmo：动态词向量  
+- 【2018 NAACL】Elmo：动态词向量  
   [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)  
 
 - gpt  
-- 【2018 ACL】bert：基于Transformer的双向深度语言模型  
+- 【2018 ACL】Bert：基于Transformer的双向深度语言模型  
   [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)  
-- 【2018 ACL】ulmfit：少量样本训练的预训练模型    
+- 【2018 ACL】Ulmfit：少量样本训练的预训练模型    
   [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)  
-- 【2018 ICLR】albert：轻量级bert的代表之作  
+- 【2018 ICLR】Albert：轻量级bert的代表之作  
   [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)  
-- 【2019 PMLR】mass：包含gpt和bert的预训练模型  
+- 【2019 PMLR】Mass：包含gpt和bert的预训练模型  
   [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450)  
-- 【2019 NeuriPS】xlnet：自回归预训练模型代表之作  
+- 【2019 NeuriPS】Xlnet：自回归预训练模型代表之作  
   [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)  
-- 【2020 ICLR】electra：轻量级新生代预训练模型  
+- 【2020 ICLR】Electra：轻量级新生代预训练模型  
   [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)  
   
   
