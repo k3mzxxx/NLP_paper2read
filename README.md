@@ -1,8 +1,10 @@
 # NLP_paper2read
 此仓库用于记录本人学习NLP的论文阅读顺序，如果能帮到一些小伙伴的话，It's my pleasure.
 
-## 综述
-Advances in natural language processing  
+## survey
+Advances in natural language processing：对整个自然语言处理领域发展的综述  
+Pre-trained Models for Natural Language Processing: A Survey 预训练模型综述  
+Multimodal Foundation Models: From Specialists to General-Purpose Assistants：多模态大模型  
 
 ## baseline paper
 1. ICLR2013，Word2Vec：词向量抗鼎之作，分为两篇，第一篇介绍CBOW和Skip-gram模型，第二篇介绍层次化softmax和负采样方法。
