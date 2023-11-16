@@ -9,7 +9,7 @@
 - Multimodal Foundation Models: From Specialists to General-Purpose Assistants：多模态大模型  
 
 ## baseline paper
-- 【2013 ICLR】Word2Vec：词向量抗鼎之作，分为两篇，第一篇介绍CBOW和Skip-gram模型，第二篇介绍层次化softmax和负采样方法。
+- 【2013 ICLR】Word2Vec：词向量抗鼎之作，分为两篇，第一篇介绍CBOW和Skip-gram模型，第二篇介绍层次化softmax和负采样方法。  
    [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)  
    [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
    
