@@ -52,10 +52,10 @@
 - 【2018 NAACL】elmo：动态词向量  
   [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)  
 
-- gpt
-- 【2018 ACL】bert：基于Transformer的双向深度语言模型
+- gpt  
+- 【2018 ACL】bert：基于Transformer的双向深度语言模型  
   [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)  
-- 【2018 ACL】ulmfit：少量样本训练的预训练模型  
+- 【2018 ACL】ulmfit：少量样本训练的预训练模型    
   [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)  
 - 【2018 ICLR】albert：轻量级bert的代表之作  
   [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)  
